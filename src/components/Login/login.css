@@ -1,12 +1,13 @@
-.login {
+/* .login {
     padding: 50px 0;
-}
+} */
 
 .login__content {
     height: 100vh;
     display: flex;
     align-items: center;
 }
+
 .login__wrapper {
     display: flex;
     width: 100%;
